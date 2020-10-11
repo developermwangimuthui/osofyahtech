@@ -1,0 +1,66 @@
+[05-Jun-2020 16:38:53 UTC] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[05-Jun-2020 16:49:12 UTC] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[05-Jun-2020 16:49:12 UTC] PHP Warning:  require(/home/macrola1/public_html/macrolankenya/vendor/autoload.php): failed to open stream: No such file or directory in /home/macrola1/public_html/index.php on line 24
+[05-Jun-2020 16:49:12 UTC] PHP Warning:  require(/home/macrola1/public_html/macrolankenya/vendor/autoload.php): failed to open stream: No such file or directory in /home/macrola1/public_html/index.php on line 24
+[05-Jun-2020 16:49:12 UTC] PHP Fatal error:  require(): Failed opening required '/home/macrola1/public_html/macrolankenya/vendor/autoload.php' (include_path='.:/opt/cpanel/ea-php70/root/usr/share/pear') in /home/macrola1/public_html/index.php on line 24
+[05-Jun-2020 16:49:20 UTC] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[05-Jun-2020 16:49:20 UTC] PHP Warning:  require(/home/macrola1/public_html/macrolankenya/vendor/autoload.php): failed to open stream: No such file or directory in /home/macrola1/public_html/index.php on line 24
+[05-Jun-2020 16:49:20 UTC] PHP Warning:  require(/home/macrola1/public_html/macrolankenya/vendor/autoload.php): failed to open stream: No such file or directory in /home/macrola1/public_html/index.php on line 24
+[05-Jun-2020 16:49:20 UTC] PHP Fatal error:  require(): Failed opening required '/home/macrola1/public_html/macrolankenya/vendor/autoload.php' (include_path='.:/opt/cpanel/ea-php70/root/usr/share/pear') in /home/macrola1/public_html/index.php on line 24
+[05-Jun-2020 16:50:10 UTC] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[05-Jun-2020 16:50:10 UTC] PHP Warning:  require(/home/macrola1/public_html/macrolankenya/vendor/autoload.php): failed to open stream: No such file or directory in /home/macrola1/public_html/index.php on line 24
+[05-Jun-2020 16:50:10 UTC] PHP Warning:  require(/home/macrola1/public_html/macrolankenya/vendor/autoload.php): failed to open stream: No such file or directory in /home/macrola1/public_html/index.php on line 24
+[05-Jun-2020 16:50:10 UTC] PHP Fatal error:  require(): Failed opening required '/home/macrola1/public_html/macrolankenya/vendor/autoload.php' (include_path='.:/opt/cpanel/ea-php70/root/usr/share/pear') in /home/macrola1/public_html/index.php on line 24
+[05-Jun-2020 16:50:15 UTC] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[05-Jun-2020 16:50:15 UTC] PHP Warning:  require(/home/macrola1/public_html/macrolankenya/vendor/autoload.php): failed to open stream: No such file or directory in /home/macrola1/public_html/index.php on line 24
+[05-Jun-2020 16:50:15 UTC] PHP Warning:  require(/home/macrola1/public_html/macrolankenya/vendor/autoload.php): failed to open stream: No such file or directory in /home/macrola1/public_html/index.php on line 24
+[05-Jun-2020 16:50:15 UTC] PHP Fatal error:  require(): Failed opening required '/home/macrola1/public_html/macrolankenya/vendor/autoload.php' (include_path='.:/opt/cpanel/ea-php70/root/usr/share/pear') in /home/macrola1/public_html/index.php on line 24
+[05-Jun-2020 16:50:16 UTC] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[05-Jun-2020 16:50:16 UTC] PHP Warning:  require(/home/macrola1/public_html/macrolankenya/vendor/autoload.php): failed to open stream: No such file or directory in /home/macrola1/public_html/index.php on line 24
+[05-Jun-2020 16:50:16 UTC] PHP Warning:  require(/home/macrola1/public_html/macrolankenya/vendor/autoload.php): failed to open stream: No such file or directory in /home/macrola1/public_html/index.php on line 24
+[05-Jun-2020 16:50:16 UTC] PHP Fatal error:  require(): Failed opening required '/home/macrola1/public_html/macrolankenya/vendor/autoload.php' (include_path='.:/opt/cpanel/ea-php70/root/usr/share/pear') in /home/macrola1/public_html/index.php on line 24
+[05-Jun-2020 16:50:17 UTC] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[05-Jun-2020 16:50:17 UTC] PHP Warning:  require(/home/macrola1/public_html/macrolankenya/vendor/autoload.php): failed to open stream: No such file or directory in /home/macrola1/public_html/index.php on line 24
+[05-Jun-2020 16:50:17 UTC] PHP Warning:  require(/home/macrola1/public_html/macrolankenya/vendor/autoload.php): failed to open stream: No such file or directory in /home/macrola1/public_html/index.php on line 24
+[05-Jun-2020 16:50:17 UTC] PHP Fatal error:  require(): Failed opening required '/home/macrola1/public_html/macrolankenya/vendor/autoload.php' (include_path='.:/opt/cpanel/ea-php70/root/usr/share/pear') in /home/macrola1/public_html/index.php on line 24
+[05-Jun-2020 16:50:18 UTC] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[05-Jun-2020 16:50:18 UTC] PHP Warning:  require(/home/macrola1/public_html/macrolankenya/vendor/autoload.php): failed to open stream: No such file or directory in /home/macrola1/public_html/index.php on line 24
+[05-Jun-2020 16:50:18 UTC] PHP Warning:  require(/home/macrola1/public_html/macrolankenya/vendor/autoload.php): failed to open stream: No such file or directory in /home/macrola1/public_html/index.php on line 24
+[05-Jun-2020 16:50:18 UTC] PHP Fatal error:  require(): Failed opening required '/home/macrola1/public_html/macrolankenya/vendor/autoload.php' (include_path='.:/opt/cpanel/ea-php70/root/usr/share/pear') in /home/macrola1/public_html/index.php on line 24
+[05-Jun-2020 16:50:19 UTC] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[05-Jun-2020 16:50:19 UTC] PHP Warning:  require(/home/macrola1/public_html/macrolankenya/vendor/autoload.php): failed to open stream: No such file or directory in /home/macrola1/public_html/index.php on line 24
+[05-Jun-2020 16:50:19 UTC] PHP Warning:  require(/home/macrola1/public_html/macrolankenya/vendor/autoload.php): failed to open stream: No such file or directory in /home/macrola1/public_html/index.php on line 24
+[05-Jun-2020 16:50:19 UTC] PHP Fatal error:  require(): Failed opening required '/home/macrola1/public_html/macrolankenya/vendor/autoload.php' (include_path='.:/opt/cpanel/ea-php70/root/usr/share/pear') in /home/macrola1/public_html/index.php on line 24
+[05-Jun-2020 16:50:19 UTC] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[05-Jun-2020 16:50:19 UTC] PHP Warning:  require(/home/macrola1/public_html/macrolankenya/vendor/autoload.php): failed to open stream: No such file or directory in /home/macrola1/public_html/index.php on line 24
+[05-Jun-2020 16:50:19 UTC] PHP Warning:  require(/home/macrola1/public_html/macrolankenya/vendor/autoload.php): failed to open stream: No such file or directory in /home/macrola1/public_html/index.php on line 24
+[05-Jun-2020 16:50:19 UTC] PHP Fatal error:  require(): Failed opening required '/home/macrola1/public_html/macrolankenya/vendor/autoload.php' (include_path='.:/opt/cpanel/ea-php70/root/usr/share/pear') in /home/macrola1/public_html/index.php on line 24
+[05-Jun-2020 16:50:19 UTC] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[05-Jun-2020 16:50:19 UTC] PHP Warning:  require(/home/macrola1/public_html/macrolankenya/vendor/autoload.php): failed to open stream: No such file or directory in /home/macrola1/public_html/index.php on line 24
+[05-Jun-2020 16:50:19 UTC] PHP Warning:  require(/home/macrola1/public_html/macrolankenya/vendor/autoload.php): failed to open stream: No such file or directory in /home/macrola1/public_html/index.php on line 24
+[05-Jun-2020 16:50:19 UTC] PHP Fatal error:  require(): Failed opening required '/home/macrola1/public_html/macrolankenya/vendor/autoload.php' (include_path='.:/opt/cpanel/ea-php70/root/usr/share/pear') in /home/macrola1/public_html/index.php on line 24
+[05-Jun-2020 16:50:19 UTC] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[05-Jun-2020 16:50:19 UTC] PHP Warning:  require(/home/macrola1/public_html/macrolankenya/vendor/autoload.php): failed to open stream: No such file or directory in /home/macrola1/public_html/index.php on line 24
+[05-Jun-2020 16:50:19 UTC] PHP Warning:  require(/home/macrola1/public_html/macrolankenya/vendor/autoload.php): failed to open stream: No such file or directory in /home/macrola1/public_html/index.php on line 24
+[05-Jun-2020 16:50:19 UTC] PHP Fatal error:  require(): Failed opening required '/home/macrola1/public_html/macrolankenya/vendor/autoload.php' (include_path='.:/opt/cpanel/ea-php70/root/usr/share/pear') in /home/macrola1/public_html/index.php on line 24
+[05-Jun-2020 16:50:20 UTC] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[05-Jun-2020 16:50:20 UTC] PHP Warning:  require(/home/macrola1/public_html/macrolankenya/vendor/autoload.php): failed to open stream: No such file or directory in /home/macrola1/public_html/index.php on line 24
+[05-Jun-2020 16:50:20 UTC] PHP Warning:  require(/home/macrola1/public_html/macrolankenya/vendor/autoload.php): failed to open stream: No such file or directory in /home/macrola1/public_html/index.php on line 24
+[05-Jun-2020 16:50:20 UTC] PHP Fatal error:  require(): Failed opening required '/home/macrola1/public_html/macrolankenya/vendor/autoload.php' (include_path='.:/opt/cpanel/ea-php70/root/usr/share/pear') in /home/macrola1/public_html/index.php on line 24
+[05-Jun-2020 16:51:10 UTC] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[05-Jun-2020 16:51:10 UTC] PHP Warning:  require(/home/macrola1/public_html/macrolankenya/vendor/autoload.php): failed to open stream: No such file or directory in /home/macrola1/public_html/index.php on line 24
+[05-Jun-2020 16:51:10 UTC] PHP Warning:  require(/home/macrola1/public_html/macrolankenya/vendor/autoload.php): failed to open stream: No such file or directory in /home/macrola1/public_html/index.php on line 24
+[05-Jun-2020 16:51:10 UTC] PHP Fatal error:  require(): Failed opening required '/home/macrola1/public_html/macrolankenya/vendor/autoload.php' (include_path='.:/opt/cpanel/ea-php70/root/usr/share/pear') in /home/macrola1/public_html/index.php on line 24
+[05-Jun-2020 16:52:18 UTC] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[05-Jun-2020 16:52:18 UTC] PHP Warning:  require(/home/macrola1/public_html/macrolankenya/vendor/autoload.php): failed to open stream: No such file or directory in /home/macrola1/public_html/index.php on line 24
+[05-Jun-2020 16:52:18 UTC] PHP Warning:  require(/home/macrola1/public_html/macrolankenya/vendor/autoload.php): failed to open stream: No such file or directory in /home/macrola1/public_html/index.php on line 24
+[05-Jun-2020 16:52:18 UTC] PHP Fatal error:  require(): Failed opening required '/home/macrola1/public_html/macrolankenya/vendor/autoload.php' (include_path='.:/opt/cpanel/ea-php70/root/usr/share/pear') in /home/macrola1/public_html/index.php on line 24
+[05-Jun-2020 16:55:36 UTC] PHP Warning:  require(/home/macrola1/public_html/macrolankenya/vendor/autoload.php): failed to open stream: No such file or directory in /home/macrola1/public_html/index.php on line 24
+[05-Jun-2020 16:55:36 UTC] PHP Warning:  require(/home/macrola1/public_html/macrolankenya/vendor/autoload.php): failed to open stream: No such file or directory in /home/macrola1/public_html/index.php on line 24
+[05-Jun-2020 16:55:36 UTC] PHP Fatal error:  require(): Failed opening required '/home/macrola1/public_html/macrolankenya/vendor/autoload.php' (include_path='.:/opt/alt/php72/usr/share/pear') in /home/macrola1/public_html/index.php on line 24
+[05-Jun-2020 16:58:08 UTC] PHP Warning:  require(/home/macrola1/public_html/macrolankenya/vendor/autoload.php): failed to open stream: No such file or directory in /home/macrola1/public_html/index.php on line 24
+[05-Jun-2020 16:58:08 UTC] PHP Warning:  require(/home/macrola1/public_html/macrolankenya/vendor/autoload.php): failed to open stream: No such file or directory in /home/macrola1/public_html/index.php on line 24
+[05-Jun-2020 16:58:08 UTC] PHP Fatal error:  require(): Failed opening required '/home/macrola1/public_html/macrolankenya/vendor/autoload.php' (include_path='.:/opt/alt/php72/usr/share/pear') in /home/macrola1/public_html/index.php on line 24
+[05-Jun-2020 16:58:13 UTC] PHP Warning:  require(/home/macrola1/public_html/macrolankenya/vendor/autoload.php): failed to open stream: No such file or directory in /home/macrola1/public_html/index.php on line 24
+[05-Jun-2020 16:58:13 UTC] PHP Warning:  require(/home/macrola1/public_html/macrolankenya/vendor/autoload.php): failed to open stream: No such file or directory in /home/macrola1/public_html/index.php on line 24
+[05-Jun-2020 16:58:13 UTC] PHP Fatal error:  require(): Failed opening required '/home/macrola1/public_html/macrolankenya/vendor/autoload.php' (include_path='.:/opt/alt/php72/usr/share/pear') in /home/macrola1/public_html/index.php on line 24
