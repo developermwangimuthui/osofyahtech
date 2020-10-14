@@ -227,7 +227,7 @@
         <div class="bg-white-transparent-9 pt-70 pb-30 p-50">
           <h2 class="mb-30 mt-0 line-height-1 pl-0"><span class="text-theme-color-1">Why</span> <span
               class="text-theme-color-2"> Choose Us?</span></h2>
-          <p class="text-gray">Call us at <span class="text-theme-color-2">0722819877</span> and we'll help you find the
+          <p class="text-gray">Call us at <span class="text-theme-color-2">0720070834</span> and we'll help you find the
             system solution (ERP) that exactly fits your needs:</p>
           <div class="row">
             <div class="col-md-6 col-sm-6">

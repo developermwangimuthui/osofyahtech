@@ -28,9 +28,9 @@
                 class="text-theme-color-2">EMPOWER</span> ENRICH</h2>
             <p class="lead">"CREATIVE INNOVATION IS THE KEY TO OUR CONTINUED SUCCESS WHICH ALWAYS KEEP US A STEP ABOVE
               OUR COMPETITORS."</p>
-            <p class="text-gray mb-20" style="font-size: 16px">Macrolan Kenya Ltd – An organization emerged out of the
+            <p class="text-gray mb-20" style="font-size: 16px">Osofyahtech Kenya Ltd – An organization emerged out of the
               firm belief that true, enduring
-              success is always the result of collaborative effort. Established in the year 2010, Macrolan Kenya Ltd is
+              success is always the result of collaborative effort. Established in the year 2012, Osofyahtech Kenya Ltd is
               one of the leading solutions providers in the field of information Technology, Business Solutions &
               Security Solutions. 
             </p>
@@ -69,7 +69,7 @@
           <div class="col-sm-12 col-md-12 mb-sm-20 wow fadeInUp" data-wow-duration="1s" data-wow-delay="0.5s">
             <h2 class="text-uppercase mt-0"><span class="text-theme-color-1">CARE </span><span
                 class="text-theme-color-2">COMMIT</span> COLLABORATE</h2>
-            <p class="lead">"WE ARE A CUSTOMER-CENTRIC COMPANY."</p>
+            <p class="lead">"WE ARE A CUSTOMER-ORIENTED COMPANY."</p>
             <p class="text-gray mb-20" style="font-size: 16px">
               The rapid success we have achieved thus far, is a result of our continued relationship with customers and dedication to our commitments. We bring together people, process and technology to provide
               the perfect solution for our customers. 
@@ -78,7 +78,7 @@
               As we continue to grow and evolve, we cherish the values that in turn serve as the foundations of our corporate systems and practices. Our team of professionals possesses an exceptional set of talents, motivation, and a determination to provide top-notch solutions.
             </p>
             <p class="text-gray mb-20" style="font-size: 16px">
-               The end result is our corporate clients’ absolute confidence in our professionalism and capabilities, which is demonstrated by the sustained and positive development of our collaboration with them, and clearly  identifying Macrolan Kenya Ltd a customer-centric company.
+               The end result is our corporate clients’ absolute confidence in our professionalism and capabilities, which is demonstrated by the sustained and positive development of our collaboration with them, and clearly  identifying Osofyahtech Kenya Ltd a customer-centric company.
             </p>
 
           </div>
