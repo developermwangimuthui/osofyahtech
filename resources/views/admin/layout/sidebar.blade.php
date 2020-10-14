@@ -1,8 +1,8 @@
 <div id="sidebar-wrapper" data-simplebar="" data-simplebar-auto-hide="true">
   <div class="brand-logo">
     <a href="{{route('dashboard')}}">
-      <img src="/front/images/macrolan/Macrolan Logo_New_Rectangle.png" class="logo-icon" alt="logo icon">
-      <h5 class="logo-text">Macrolan</h5>
+      <img src="/front/images/macrolan/logo.png" class="logo-icon" alt="logo icon">
+      <h5 class="logo-text">Osofyahtech</h5>
     </a>
   </div>
   <ul class="sidebar-menu do-nicescrol">

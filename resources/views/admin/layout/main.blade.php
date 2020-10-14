@@ -7,10 +7,15 @@
     <meta name="description" content="" />
     <meta name="author" content="" />
     <meta name="csrf-token" content="{{ csrf_token() }}" />
-    <title>Macrolan</title>
+    <title>Osofyahtech</title>
     <!--favicon-->
-    <link rel="icon" href="/backend/assets/images/favicon.ico" type="image/x-icon">
-    <!-- Vector CSS -->
+
+  <!-- Favicon and Touch Icons -->
+  <link href="/front/images/macrolan/logo.png" rel="shortcut icon" type="image/png">
+  <link href="/front/images/macrolan/logo.png" rel="apple-touch-icon">
+  <link href="/front/images/macrolan/logo.png" rel="apple-touch-icon" sizes="72x72">
+  <link href="/front/images/macrolan/logo.png" rel="apple-touch-icon" sizes="114x114">
+  <link href="/front/images/macrolan/logo.png" rel="apple-touch-icon" sizes="144x144">    <!-- Vector CSS -->
     <link href="/backend/assets/plugins/vectormap/jquery-jvectormap-2.0.2.css" rel="stylesheet" />
     <!-- simplebar CSS-->
     <link href="/backend/assets/plugins/simplebar/css/simplebar.css" rel="stylesheet" />

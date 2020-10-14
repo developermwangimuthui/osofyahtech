@@ -7,7 +7,7 @@
   <meta name="viewport" content="width=device-width,initial-scale=1.0" />
   <meta http-equiv="content-type" content="text/html; charset=UTF-8" />
   <meta name="description"
-    content="Macrolan is one of the leading solutions providers in the field of information Technology, Business Solutions & Security Solutions. Our vision is to be Africa’s leading provider of cutting-edge IT solutions, delivered with world-class service, providing utmost satisfaction for our valued customers. Our solutions are critical for our customers and that’s why we place great importance in providing reliable, state-of-the-art products. Our team of professionals possesses an exceptional set of talents, motivation, and a determination to excel to provide everything they commit to. The end result is our corporate clients’ absolute confidence in our professionalism and capabilities, which is demonstrated by the sustained and positive development of our collaboration with them, clearly identifying us a customer-centric company." />
+    content="Osofyahtec is one of the leading solutions providers in the field of information Technology, Business Solutions & Security Solutions. Our vision is to be Africa’s leading provider of cutting-edge IT solutions, delivered with world-class service, providing utmost satisfaction for our valued customers. Our solutions are critical for our customers and that’s why we place great importance in providing reliable, state-of-the-art products. Our team of professionals possesses an exceptional set of talents, motivation, and a determination to excel to provide everything they commit to. The end result is our corporate clients’ absolute confidence in our professionalism and capabilities, which is demonstrated by the sustained and positive development of our collaboration with them, clearly identifying us a customer-centric company." />
   <meta name="keywords" content="Computer,Mobile,Pad,ict" />
   <meta name="author" content="MacroLan" />
   <meta name="csrf-token" content="{{ csrf_token() }}" />
@@ -16,11 +16,11 @@
   <title>Osofyahtech Limited</title>
 
   <!-- Favicon and Touch Icons -->
-  <link href="/front/images/macrolan/Macrolan Logo_New_Rectangle.png" rel="shortcut icon" type="image/png">
-  <link href="/front/images/macrolan/Macrolan Logo_New_Rectangle.png" rel="apple-touch-icon">
-  <link href="/front/images/macrolan/Macrolan Logo_New_Rectangle.png" rel="apple-touch-icon" sizes="72x72">
-  <link href="/front/images/macrolan/Macrolan Logo_New_Rectangle.png" rel="apple-touch-icon" sizes="114x114">
-  <link href="/front/images/macrolan/Macrolan Logo_New_Rectangle.png" rel="apple-touch-icon" sizes="144x144">
+  <link href="/front/images/macrolan/logo.png" rel="shortcut icon" type="image/png">
+  <link href="/front/images/macrolan/logo.png\" rel="apple-touch-icon">
+  <link href="/front/images/macrolan/logo.png\" rel="apple-touch-icon" sizes="72x72">
+  <link href="/front/images/macrolan/logo.png\" rel="apple-touch-icon" sizes="114x114">
+  <link href="/front/images/macrolan/logo.png\" rel="apple-touch-icon" sizes="144x144">
 
   <!-- Stylesheet -->
   <link href="/front/css/bootstrap.min.css" rel="stylesheet" type="text/css">

@@ -8,7 +8,7 @@
 			<div class="card-body">
 				<div class="card-content p-2">
 					<div class="text-center">
-						<img src="/front/images/macrolan/Macrolan Logo_New_Rectangle.png">
+						<img src="/front/images/macrolan/logo.png">
 					</div>
 					<div class="card-title text-uppercase text-center py-3">Sign In</div>
 					<form method="POST" action="{{ route('login') }}">
