@@ -13,7 +13,7 @@
   <meta name="csrf-token" content="{{ csrf_token() }}" />
 
   <!-- Page Title -->
-  <title>Macrolan Kenya</title>
+  <title>Osofyahtech Limited</title>
 
   <!-- Favicon and Touch Icons -->
   <link href="/front/images/macrolan/Macrolan Logo_New_Rectangle.png" rel="shortcut icon" type="image/png">
