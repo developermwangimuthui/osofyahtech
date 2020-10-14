@@ -14,7 +14,7 @@
           <h4 class="widget-title line-bottom-theme-colored-2">Contatc Us</h4>
           <ul class="list-inline mt-5">
             <li class="m-0 pl-10 pr-10"> <i class="fa fa-phone text-theme-color-2 mr-5"></i> <a class="text-white"
-               >+254 720 070 834</a> </li>
+               >+254 720 070 864</a> </li>
             <li class="m-0 pl-10 pr-10"> <i class="fa fa-phone text-theme-color-2 mr-5"></i> <a class="text-white"
                >+254 721 257 308</a> </li>
             <li class="m-0 pl-10 pr-10"> <i class="fa fa-envelope-o text-theme-color-2 mr-5"></i> <a class="text-white"
